@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|c:\\users\\chino\\source\\repos\\bcp_omm\\operacion_omm\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|solutionrelative:operacion_omm\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|c:\\users\\chino\\source\\repos\\bcp_omm\\operacion_omm\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|solutionrelative:operacion_omm\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|c:\\users\\chino\\source\\repos\\bcp_omm\\operacion_omm\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|solutionrelative:operacion_omm\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|c:\\users\\chino\\source\\repos\\bcp_omm\\operacion_omm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|solutionrelative:operacion_omm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|c:\\users\\chino\\source\\repos\\bcp_omm\\operacion_omm\\models\\dbapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A18D25B-22FF-4CFE-858A-83812412971F}|OPERACION_OMM\\OPERACION_OMM.csproj|solutionrelative:operacion_omm\\models\\dbapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "OPERACION_OMM\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "OPERACION_OMM\\Controllers\\CuentaController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAUwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:28:21.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\appsettings.json",
+              "RelativeDocumentMoniker": "OPERACION_OMM\\appsettings.json",
+              "ToolTip": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\appsettings.json",
+              "RelativeToolTip": "OPERACION_OMM\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-19T13:52:47.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Models\\DBApiContext.cs",
+              "RelativeDocumentMoniker": "OPERACION_OMM\\Models\\DBApiContext.cs",
+              "ToolTip": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Models\\DBApiContext.cs",
+              "RelativeToolTip": "OPERACION_OMM\\Models\\DBApiContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:52:40.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "OPERACION_OMM\\Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Models\\Movimiento.cs",
+              "RelativeToolTip": "OPERACION_OMM\\Models\\Movimiento.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwGkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:44:17.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "OPERACION_OMM\\Controllers\\MovimientoController.cs",
+              "ToolTip": "C:\\Users\\Chino\\source\\repos\\BCP_OMM\\OPERACION_OMM\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "OPERACION_OMM\\Controllers\\MovimientoController.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAQwIkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T20:51:44.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
